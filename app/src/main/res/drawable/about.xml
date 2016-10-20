@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 点击效果 按下时显示：@drawable/about_us_icon_p-->
+    <!-- android:state_selected选中         android:state_enabled设置是否响应事件,指所有事件-->
+    <!--android:state_pressed点击-->
+    <item android:drawable="@drawable/about_us_icon_p" android:state_pressed="true"/>
+    <!--android:state_focused获得焦点-->
+    <item android:drawable="@drawable/about_us_icon_p" android:state_focused="true"/>
+    <!-- 默认时的背景图片-->
+    <item android:drawable="@drawable/about_us_icon"/>
+</selector>

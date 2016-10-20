@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.zxx.lrean.lrean2016.quick_mark.QuickMarkActivity">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="30dp"/>
+    <TextView
+        android:id="@+id/q_m_long"
+        style="@style/long_text"
+        android:text="Strat Scan"
+        />
+    <EditText
+        android:id="@+id/q_r_maker_edit"
+        style="@style/long_edit" />
+
+    <TextView
+        android:id="@+id/q_r_maker_text"
+        style="@style/long_text"
+        android:text="Maker_QR"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+    <TextView
+        android:id="@+id/q_r_clen_text"
+        style="@style/long_text"
+        android:text="clen"/>
+    <CheckBox
+        android:id="@+id/qr_loge_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="loge"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="显示结果:"/>
+    <ImageView
+        android:id="@+id/qr_icon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:id="@+id/q_m_long_end"
+        style="@style/long_text"
+        android:textColor="#be1313"
+        />
+</LinearLayout>

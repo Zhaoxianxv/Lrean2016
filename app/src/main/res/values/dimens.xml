@@ -1,0 +1,47 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!--toolbar-->
+    <dimen name="toolbar_height">43dp</dimen>
+    <dimen name="toolbar_menu_size">35dp</dimen>
+    <!--注册登录-->
+    <dimen name="account_size">15sp</dimen>
+    <!--协议-->
+    <dimen name="acount_xy">12sp</dimen>
+    <dimen name="load_more_progressbar_size">15dp</dimen>
+    <dimen name="load_more_progressbar_margin_left">10dp</dimen>
+    <!--大标题-->
+    <dimen name="big_title">17sp</dimen>
+    <!--提示或者内容-->
+    <dimen name="toast_content">12sp</dimen>
+    <!--大按钮字-->
+    <dimen name="big_btn">15sp</dimen>
+    <!--按钮的宽度-->
+    <dimen name="btn_width">300dp</dimen>
+    <!--按钮的高度-->
+    <dimen name="btn_height">45dp</dimen>
+    <dimen name="acount_bigy">13sp</dimen>
+    <dimen name="more_window_item_margin">12dp</dimen>
+    <dimen name="edit_height">44dp</dimen>
+    <dimen name="login_padding">30dp</dimen>
+    <dimen name="line">1dp</dimen>
+    <dimen name="cer_height">120dp</dimen>
+    <dimen name="btn_margin">52dp</dimen>
+    <dimen name="cricle_widht">13dp</dimen>
+    <!-- 圆角半径-->
+    <dimen name="cricle_radio">5dp</dimen>
+
+    <dimen name="view_small_padding">1dp</dimen>
+    <dimen name="view_padding">6dp</dimen>
+
+
+    <dimen name="bottom_icon_box_size">23dp</dimen>
+    <dimen name="bottom_icon_margin_top">8dp</dimen>
+    <dimen name="bottom_badge_size">5dp</dimen>
+    <dimen name="bottom_badge_margin">2dp</dimen>
+    <dimen name="bottom_text_badge_size">12dp</dimen>
+    <dimen name="bottom_text">10sp</dimen>
+    <dimen name="bottom_text_margin_top">3dp</dimen>
+
+</resources>

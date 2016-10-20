@@ -1,0 +1,4 @@
+butternkfit包使用大量的方便了程序员，
+1、使用时注意先绑定butternkfit；结束时还要解绑；
+2、bindview、bindviews，代替了实例化view控件
+3、简化了监听方法的实现；
